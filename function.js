@@ -1,6 +1,6 @@
 function switchOff() {
-    const result = 'switch off hogaya'
-    return result;
+    console.log("Burger, Pizza, Pasta");
+
 }
 
 
